@@ -142,3 +142,4 @@ div.append(button1,button2,button3);
 div.style.display="flex";
 
 document.body.appendChild(div);
+
